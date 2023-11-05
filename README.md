@@ -162,3 +162,8 @@ OBS: Não necessariamente serão criados todos os arquivos descritos
 ## Jest/Supertest
 
 > Testes de integração das rotas utilizando o jest com supertest para verificar os cenários de sucesso e `[200, 201, 204]` erro `[400, 401, 404, 409, 500]`
+
+<br />
+<br />
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
